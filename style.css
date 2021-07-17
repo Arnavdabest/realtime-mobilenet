@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    box-shadow: 10px 10px 15px grey;
+}
+
+.heading_2{
+    background-color: white;
+    color: black;
+    width: 50%;
+    border-radius: 12px;
+    box-shadow: 10px 10px 15px grey;
+    float:none;
+    padding: 10px;
+}
+
+#footer{
+    position:fixed;
+    width:100%;
+    bottom:0;
+    background-color: grey;
+    text-align: center;
+    line-height: 3;
+    font-size:22px;
+}
+
+p{
+    box-shadow: 10px 10px 15px grey;
+}
+
+canvas{
+    border-style: dotted;
+    border-color: indigo;
+    border-radius: 12px;
+    margin-top: 200px;
+}
